@@ -1,8 +1,7 @@
-# html2fps
-Convert HTML to an fps file
+
 # html2fps 
 
-[简体中文]([html2fps/README_CN.md at main · mip002/html2fps (github.com)](https://github.com/mip002/html2fps/blob/main/README_CN.md))
+[简体中文](https://github.com/mip002/html2fps/blob/main/README_CN.md)
 
 Tool for easily converting HTML files to FPS.XML files 
 
