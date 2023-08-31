@@ -28,7 +28,6 @@ inline void read_title()
         {
             if(tmp[i]=='h'&&tmp[i+1]=='2')
             {
-                //cout<<tmp<<endl<<endl;
                 while(tmp[i]!='>') ++i;
                 ++i;
                 while(tmp[i]!='<')
